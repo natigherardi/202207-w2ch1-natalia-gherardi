@@ -1,0 +1,23 @@
+{
+  "name": "challenge-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natigherardi/202207-w2ch1-natalia-gherardi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natigherardi/202207-w2ch1-natalia-gherardi/issues"
+  },
+  "homepage": "https://github.com/natigherardi/202207-w2ch1-natalia-gherardi#readme",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
